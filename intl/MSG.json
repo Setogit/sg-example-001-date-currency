@@ -1,0 +1,32 @@
+{
+  "en": {
+    "cf4f81099589e3992996438f2eecb7e8": "The time in language \"{0}\" is {1}.  The currency is \"{2}\"."
+  },
+  "de": {
+    "cf4f81099589e3992996438f2eecb7e8": "Die Zeit in Sprache \"{0}\" ist {1}.  Die Währung ist \"{2}.\""
+  },
+  "es": {
+    "cf4f81099589e3992996438f2eecb7e8": "El tiempo en el idioma \"{0}\" es {1}.  La moneda es \"{2}.\""
+  },
+  "fr": {
+    "cf4f81099589e3992996438f2eecb7e8": "La fois en langue \"{0}\" est {1}.  La monnaie est \"{2}.\""
+  },
+  "it": {
+    "cf4f81099589e3992996438f2eecb7e8": "Il tempo in lingua \"{0}\" è {1}.  La valuta è \"{2}.\""
+  },
+  "pt": {
+    "cf4f81099589e3992996438f2eecb7e8": "O tempo em idioma \"{0}\" é {1}.  A moeda corrente é \"{2}.\""
+  },
+  "ja": {
+    "cf4f81099589e3992996438f2eecb7e8": "言語の時間\"{0}\"あります{1}。通貨はあります\"{2}\"。"
+  },
+  "ko": {
+    "cf4f81099589e3992996438f2eecb7e8": "언어 \"{0}\"에(서)시간은 {1}이다. 통화는 \"{2}\" 이다."
+  },
+  "zh-Hans": {
+    "cf4f81099589e3992996438f2eecb7e8": "在语言“{0}”中的时间是{1}。货币是“{2}”。"
+  },
+  "zh-Hant": {
+    "cf4f81099589e3992996438f2eecb7e8": "在語言“{0}』中的時間是{1}。貨幣是“{2}』。"
+  }
+}

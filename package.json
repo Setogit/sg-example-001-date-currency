@@ -1,0 +1,21 @@
+{
+  "name": "sg-example-001-date-currency",
+  "version": "1.0.0",
+  "author": "Tetsuo Seto <setogit@gmail.com>",
+  "license": "Artistic-2.0",
+  "main": "index.js",
+  "readmeFilename": "README.md",
+  "keywords": [
+    "strong-globalize"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Setogit/sg-example-001-date-currency.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Setogit/sg-example-001-date-currency/issues"
+  },
+  "dependencies": {
+    "strong-globalize": "^2.5.6"
+  }
+}
