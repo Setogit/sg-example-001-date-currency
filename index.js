@@ -3,7 +3,7 @@ SG.SetRootDir(__dirname);
 
 var now = new Date();
 var amount = 1250.55;
-var langs = [ 'en', 'de', 'es', 'fr','it', 'pt',
+var langs = [ 'en', 'de', 'es', 'fr','it', 'pt', 'ru',
   'ja', 'ko', 'zh-Hans', 'zh-Hant',
   'ar', 'bn', 'cs', 'el', 'fi', 'hi', 'id', 'lt',
   'nb', 'nl', 'pl', 'ro', 'sl', 'sv', 'ta', 'te',
