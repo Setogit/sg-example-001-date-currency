@@ -4,7 +4,10 @@ SG.SetRootDir(__dirname);
 var now = new Date();
 var amount = 1250.55;
 var langs = [ 'en', 'de', 'es', 'fr','it', 'pt',
-  'ja', 'ko', 'zh-Hans', 'zh-Hant'];
+  'ja', 'ko', 'zh-Hans', 'zh-Hant',
+  'ar', 'bn', 'cs', 'el', 'fi', 'hi', 'id', 'lt',
+  'nb', 'nl', 'pl', 'ro', 'sl', 'sv', 'ta', 'te',
+  'th', 'tr', 'uk', 'vi'];
 
 console.log('_____________ g.f _____________');
 langs.forEach(function(lang) {

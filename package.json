@@ -1,6 +1,6 @@
 {
   "name": "sg-example-001-date-currency",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Tetsuo Seto <setogit@gmail.com>",
   "license": "Artistic-2.0",
   "main": "index.js",
@@ -16,6 +16,6 @@
     "url": "https://github.com/Setogit/sg-example-001-date-currency/issues"
   },
   "dependencies": {
-    "strong-globalize": "^2.5.6"
+    "strong-globalize": "^2.6.0"
   }
 }

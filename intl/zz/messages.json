@@ -1,12 +1,12 @@
 {
   "cf4f81099589e3992996438f2eecb7e8": [
-    "g.f:index.js:11",
-    "g.log:index.js:20"
+    "g.f:index.js:15",
+    "g.log:index.js:25"
   ],
   "_____________ g.f _____________": [
-    "console.log:index.js:8"
+    "console.log:index.js:12"
   ],
   "_____________ g.log _____________": [
-    "console.log:index.js:17"
+    "console.log:index.js:21"
   ]
 }
