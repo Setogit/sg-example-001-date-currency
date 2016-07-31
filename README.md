@@ -12,7 +12,7 @@ $ slt-globalize -e
 --- extracted: 1 msges, 11 words, 58 characters
 
 $ slt-globalize -t
---- linting sg-example-001-date-currency en
+--- linting sg-exa--- linting sg-example-001-date-currency en
 --- linted 1 messages, 11 words, 58 characters
 --- linted sg-example-001-date-currency en
 --- translating sg-example-001-date-currency_messages.json
@@ -113,64 +113,66 @@ $ slt-globalize -t
 
 $ node index.js 
 _____________ g.f _____________
-The time in language "en" is Jul 31, 2016, 3:35:27 PM.  The currency is "1,250.55 US dollars".
-Die Zeit in Sprache "de" ist 31.07.2016, 15:35:27.  Die Währung ist "1.250,55 US-Dollar."
-El tiempo en el idioma "es" es 31 jul. 2016 15:35:27.  La moneda es "1.250,55 dólares estadounidenses."
-La fois en langue "fr" est 31 juil. 2016 à 15:35:27.  La monnaie est "1 250,55 dollars des États-Unis."
-Il tempo in lingua "it" è 31 lug 2016, 15:35:27.  La valuta è "1.250,55 dollari statunitensi."
-O tempo em idioma "pt" é 31 de jul de 2016 15:35:27.  A moeda corrente é "1.250,55 Dólares americanos."
-言語の時間"ja"あります2016/07/31 15:35:27。通貨はあります"1,250.55米ドル"。
-언어 "ko"에(서)시간은 2016. 7. 31. 오후 3:35:27이다. 통화는 "1,250.55 미국 달러" 이다.
-在语言“zh-Hans”中的时间是2016年7月31日 下午3:35:27。货币是“1,250.55美元”。
-在語言“zh-Hant』中的時間是2016年7月31日 下午3:35:27。貨幣是“1,250.55 美元』。
-The time in language "ar" is Sun Jul 31 2016 15:35:27 GMT-0700 (PDT).  The currency is "USD1250.55".
-The time in language "bn" is Sun Jul 31 2016 15:35:27 GMT-0700 (PDT).  The currency is "USD1250.55".
-The time in language "cs" is 31. 7. 2016 15:35:27.  The currency is "1 250,55 amerického dolaru".
-The time in language "el" is 31 Ιουλ 2016, 3:35:27 μ.μ..  The currency is "1.250,55 δολάρια ΗΠΑ".
-The time in language "fi" is 31.7.2016 klo 15.35.27.  The currency is "1 250,55 Yhdysvaltain dollaria".
-The time in language "hi" is 31/07/2016, 3:35:27 अपराह्न.  The currency is "1,250.55 यूएस डॉलर".
-The time in language "id" is 31 Jul 2016 15.35.27.  The currency is "1.250,55 Dolar Amerika Serikat".
-The time in language "lt" is 2016-07-31 15:35:27.  The currency is "1 250,55 JAV dolerio".
-The time in language "nb" is 31. jul. 2016, 15.35.27.  The currency is "1 250,55 amerikanske dollar".
-The time in language "nl" is 31 jul. 2016 15:35:27.  The currency is "1.250,55 Amerikaanse dollar".
-The time in language "pl" is 31.07.2016, 15:35:27.  The currency is "1 250,55 dolara amerykańskiego".
-The time in language "ro" is 31 iul. 2016, 15:35:27.  The currency is "1.250,55 dolari americani".
-The time in language "sl" is 31. jul. 2016 15:35:27.  The currency is "1.250,55 ameriški dolarji".
-The time in language "sv" is 31 juli 2016 15:35:27.  The currency is "1 250,55 US-dollar".
-The time in language "ta" is 31 ஜூலை, 2016, பிற்பகல் 3:35:27.  The currency is "1,250.55 அமெரிக்க டாலர்கள்".
-The time in language "te" is 31 జులై, 2016 3:35:27 [PM].  The currency is "1,250.55 అమెరికా డాలర్‌లు".
-The time in language "th" is 31 ก.ค. 2016 15:35:27.  The currency is "1,250.55 ดอลลาร์สหรัฐ".
-The time in language "tr" is 31 Tem 2016 15:35:27.  The currency is "1.250,55 ABD doları".
-The time in language "uk" is 31 лип. 2016 р., 15:35:27.  The currency is "1 250,55 долара США".
-The time in language "vi" is 15:35:27, 31 thg 7, 2016.  The currency is "1.250,55 Đô la Mỹ".
+The time in language "en" is Jul 31, 2016, 4:21:43 PM.  The currency is "1,250.55 US dollars".
+Die Zeit in Sprache "de" ist 31.07.2016, 16:21:43.  Die Währung ist "1.250,55 US-Dollar."
+El tiempo en el idioma "es" es 31 jul. 2016 16:21:43.  La moneda es "1.250,55 dólares estadounidenses."
+La fois en langue "fr" est 31 juil. 2016 à 16:21:43.  La monnaie est "1 250,55 dollars des États-Unis."
+Il tempo in lingua "it" è 31 lug 2016, 16:21:43.  La valuta è "1.250,55 dollari statunitensi."
+O tempo em idioma "pt" é 31 de jul de 2016 16:21:43.  A moeda corrente é "1.250,55 Dólares americanos."
+The time in language "ru" is 31 июл. 2016 г., 16:21:43.  The currency is "1 250,55 доллара США".
+言語の時間"ja"あります2016/07/31 16:21:43。通貨はあります"1,250.55米ドル"。
+언어 "ko"에(서)시간은 2016. 7. 31. 오후 4:21:43이다. 통화는 "1,250.55 미국 달러" 이다.
+在语言“zh-Hans”中的时间是2016年7月31日 下午4:21:43。货币是“1,250.55美元”。
+在語言“zh-Hant』中的時間是2016年7月31日 下午4:21:43。貨幣是“1,250.55 美元』。
+The time in language "ar" is Sun Jul 31 2016 16:21:43 GMT-0700 (PDT).  The currency is "USD1250.55".
+The time in language "bn" is Sun Jul 31 2016 16:21:43 GMT-0700 (PDT).  The currency is "USD1250.55".
+The time in language "cs" is 31. 7. 2016 16:21:43.  The currency is "1 250,55 amerického dolaru".
+The time in language "el" is 31 Ιουλ 2016, 4:21:43 μ.μ..  The currency is "1.250,55 δολάρια ΗΠΑ".
+The time in language "fi" is 31.7.2016 klo 16.21.43.  The currency is "1 250,55 Yhdysvaltain dollaria".
+The time in language "hi" is 31/07/2016, 4:21:43 अपराह्न.  The currency is "1,250.55 यूएस डॉलर".
+The time in language "id" is 31 Jul 2016 16.21.43.  The currency is "1.250,55 Dolar Amerika Serikat".
+The time in language "lt" is 2016-07-31 16:21:43.  The currency is "1 250,55 JAV dolerio".
+The time in language "nb" is 31. jul. 2016, 16.21.43.  The currency is "1 250,55 amerikanske dollar".
+The time in language "nl" is 31 jul. 2016 16:21:43.  The currency is "1.250,55 Amerikaanse dollar".
+The time in language "pl" is 31.07.2016, 16:21:43.  The currency is "1 250,55 dolara amerykańskiego".
+The time in language "ro" is 31 iul. 2016, 16:21:43.  The currency is "1.250,55 dolari americani".
+The time in language "sl" is 31. jul. 2016 16:21:43.  The currency is "1.250,55 ameriški dolarji".
+The time in language "sv" is 31 juli 2016 16:21:43.  The currency is "1 250,55 US-dollar".
+The time in language "ta" is 31 ஜூலை, 2016, பிற்பகல் 4:21:43.  The currency is "1,250.55 அமெரிக்க டாலர்கள்".
+The time in language "te" is 31 జులై, 2016 4:21:43 [PM].  The currency is "1,250.55 అమెరికా డాలర్‌లు".
+The time in language "th" is 31 ก.ค. 2016 16:21:43.  The currency is "1,250.55 ดอลลาร์สหรัฐ".
+The time in language "tr" is 31 Tem 2016 16:21:43.  The currency is "1.250,55 ABD doları".
+The time in language "uk" is 31 лип. 2016 р., 16:21:43.  The currency is "1 250,55 долара США".
+The time in language "vi" is 16:21:43, 31 thg 7, 2016.  The currency is "1.250,55 Đô la Mỹ".
 _____________ g.log _____________
-The time in language "en" is Jul 31, 2016, 3:35:27 PM.  The currency is "1,250.55 US dollars".
-Die Zeit in Sprache "de" ist 31.07.2016, 15:35:27.  Die Währung ist "1.250,55 US-Dollar."
-El tiempo en el idioma "es" es 31 jul. 2016 15:35:27.  La moneda es "1.250,55 dólares estadounidenses."
-La fois en langue "fr" est 31 juil. 2016 à 15:35:27.  La monnaie est "1 250,55 dollars des États-Unis."
-Il tempo in lingua "it" è 31 lug 2016, 15:35:27.  La valuta è "1.250,55 dollari statunitensi."
-O tempo em idioma "pt" é 31 de jul de 2016 15:35:27.  A moeda corrente é "1.250,55 Dólares americanos."
-言語の時間"ja"あります2016/07/31 15:35:27。通貨はあります"1,250.55米ドル"。
-언어 "ko"에(서)시간은 2016. 7. 31. 오후 3:35:27이다. 통화는 "1,250.55 미국 달러" 이다.
-在语言“zh-Hans”中的时间是2016年7月31日 下午3:35:27。货币是“1,250.55美元”。
-在語言“zh-Hant』中的時間是2016年7月31日 下午3:35:27。貨幣是“1,250.55 美元』。
-The time in language "ar" is Sun Jul 31 2016 15:35:27 GMT-0700 (PDT).  The currency is "USD1250.55".
-The time in language "bn" is Sun Jul 31 2016 15:35:27 GMT-0700 (PDT).  The currency is "USD1250.55".
-The time in language "cs" is 31. 7. 2016 15:35:27.  The currency is "1 250,55 amerického dolaru".
-The time in language "el" is 31 Ιουλ 2016, 3:35:27 μ.μ..  The currency is "1.250,55 δολάρια ΗΠΑ".
-The time in language "fi" is 31.7.2016 klo 15.35.27.  The currency is "1 250,55 Yhdysvaltain dollaria".
-The time in language "hi" is 31/07/2016, 3:35:27 अपराह्न.  The currency is "1,250.55 यूएस डॉलर".
-The time in language "id" is 31 Jul 2016 15.35.27.  The currency is "1.250,55 Dolar Amerika Serikat".
-The time in language "lt" is 2016-07-31 15:35:27.  The currency is "1 250,55 JAV dolerio".
-The time in language "nb" is 31. jul. 2016, 15.35.27.  The currency is "1 250,55 amerikanske dollar".
-The time in language "nl" is 31 jul. 2016 15:35:27.  The currency is "1.250,55 Amerikaanse dollar".
-The time in language "pl" is 31.07.2016, 15:35:27.  The currency is "1 250,55 dolara amerykańskiego".
-The time in language "ro" is 31 iul. 2016, 15:35:27.  The currency is "1.250,55 dolari americani".
-The time in language "sl" is 31. jul. 2016 15:35:27.  The currency is "1.250,55 ameriški dolarji".
-The time in language "sv" is 31 juli 2016 15:35:27.  The currency is "1 250,55 US-dollar".
-The time in language "ta" is 31 ஜூலை, 2016, பிற்பகல் 3:35:27.  The currency is "1,250.55 அமெரிக்க டாலர்கள்".
-The time in language "te" is 31 జులై, 2016 3:35:27 [PM].  The currency is "1,250.55 అమెరికా డాలర్‌లు".
-The time in language "th" is 31 ก.ค. 2016 15:35:27.  The currency is "1,250.55 ดอลลาร์สหรัฐ".
-The time in language "tr" is 31 Tem 2016 15:35:27.  The currency is "1.250,55 ABD doları".
-The time in language "uk" is 31 лип. 2016 р., 15:35:27.  The currency is "1 250,55 долара США".
-The time in language "vi" is 15:35:27, 31 thg 7, 2016.  The currency is "1.250,55 Đô la Mỹ".```
+The time in language "en" is Jul 31, 2016, 4:21:43 PM.  The currency is "1,250.55 US dollars".
+Die Zeit in Sprache "de" ist 31.07.2016, 16:21:43.  Die Währung ist "1.250,55 US-Dollar."
+El tiempo en el idioma "es" es 31 jul. 2016 16:21:43.  La moneda es "1.250,55 dólares estadounidenses."
+La fois en langue "fr" est 31 juil. 2016 à 16:21:43.  La monnaie est "1 250,55 dollars des États-Unis."
+Il tempo in lingua "it" è 31 lug 2016, 16:21:43.  La valuta è "1.250,55 dollari statunitensi."
+O tempo em idioma "pt" é 31 de jul de 2016 16:21:43.  A moeda corrente é "1.250,55 Dólares americanos."
+The time in language "ru" is 31 июл. 2016 г., 16:21:43.  The currency is "1 250,55 доллара США".
+言語の時間"ja"あります2016/07/31 16:21:43。通貨はあります"1,250.55米ドル"。
+언어 "ko"에(서)시간은 2016. 7. 31. 오후 4:21:43이다. 통화는 "1,250.55 미국 달러" 이다.
+在语言“zh-Hans”中的时间是2016年7月31日 下午4:21:43。货币是“1,250.55美元”。
+在語言“zh-Hant』中的時間是2016年7月31日 下午4:21:43。貨幣是“1,250.55 美元』。
+The time in language "ar" is Sun Jul 31 2016 16:21:43 GMT-0700 (PDT).  The currency is "USD1250.55".
+The time in language "bn" is Sun Jul 31 2016 16:21:43 GMT-0700 (PDT).  The currency is "USD1250.55".
+The time in language "cs" is 31. 7. 2016 16:21:43.  The currency is "1 250,55 amerického dolaru".
+The time in language "el" is 31 Ιουλ 2016, 4:21:43 μ.μ..  The currency is "1.250,55 δολάρια ΗΠΑ".
+The time in language "fi" is 31.7.2016 klo 16.21.43.  The currency is "1 250,55 Yhdysvaltain dollaria".
+The time in language "hi" is 31/07/2016, 4:21:43 अपराह्न.  The currency is "1,250.55 यूएस डॉलर".
+The time in language "id" is 31 Jul 2016 16.21.43.  The currency is "1.250,55 Dolar Amerika Serikat".
+The time in language "lt" is 2016-07-31 16:21:43.  The currency is "1 250,55 JAV dolerio".
+The time in language "nb" is 31. jul. 2016, 16.21.43.  The currency is "1 250,55 amerikanske dollar".
+The time in language "nl" is 31 jul. 2016 16:21:43.  The currency is "1.250,55 Amerikaanse dollar".
+The time in language "pl" is 31.07.2016, 16:21:43.  The currency is "1 250,55 dolara amerykańskiego".
+The time in language "ro" is 31 iul. 2016, 16:21:43.  The currency is "1.250,55 dolari americani".
+The time in language "sl" is 31. jul. 2016 16:21:43.  The currency is "1.250,55 ameriški dolarji".
+The time in language "sv" is 31 juli 2016 16:21:43.  The currency is "1 250,55 US-dollar".
+The time in language "ta" is 31 ஜூலை, 2016, பிற்பகல் 4:21:43.  The currency is "1,250.55 அமெரிக்க டாலர்கள்".
+The time in language "te" is 31 జులై, 2016 4:21:43 [PM].  The currency is "1,250.55 అమెరికా డాలర్‌లు".
+The time in language "th" is 31 ก.ค. 2016 16:21:43.  The currency is "1,250.55 ดอลลาร์สหรัฐ".
+The time in language "tr" is 31 Tem 2016 16:21:43.  The currency is "1.250,55 ABD doları".
+The time in language "uk" is 31 лип. 2016 р., 16:21:43.  The currency is "1 250,55 долара США".
+The time in language "vi" is 16:21:43, 31 thg 7, 2016.  The currency is "1.250,55 Đô la Mỹ".
